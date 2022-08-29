@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Diagnosis</string>
+    <string name="title_activity_diagnosis">Diagnosis_Activity</string>
+    <string name="p1">لايستجيب لمناداة اسمه</string>
+    <string name="p2">2لايكثر من الاتصال البصري المباشر.</string>
+    <string name="p3">3يبدو انه لا يسمع محدثة.</string>
+    <string name="p4">4يرفض العناق او ينكمش علي نفسه.</string>
+    <string name="p5">5يبدو انه لايدرك مشاعر واحاسيس الاخرين.</string>
+    <string name="p6">6يبدو انه يحب ان يلعب لوحدة .</string>
+    <string name="p7">7يبدا الكلام في سن متأخر مقارنة بالاطفال الاخرين.</string>
+    <string name="p8">8يفقد القدرة علي قول كلمات او جمل معينه كان يعرفها.</string>
+    <string name="p9">9يقيم اتصالا بصريا حينما يريد شيئا معين .</string>
+    <string name="p10">10يتحدث بصوت غريب او بنبرات وايقاعات مختلفة .</string>
+    <string name="p11">11قد يكرر كلمات او عبارات او مصطلحات لكنه لا يعرف كيفية استعمالها.</string>
+    <string name="p12">12ينفذ حركات متكررة مثل الهزار او الدوران في دائرة او التلويح باليدين.</string>
+    <string name="p13">13ينمي عادات وطقوسا يكررها دائما .</string>
+    <string name="p14">14يكون دائم الحركه.</string>
+    <string name="p15">15يفقد سكينته لدى حصول اي تغير .</string>
+    <string name="p16">16يصاب بالذهول والانبهار من اجزاء معينه من الأغراض , مثل دوران عجل في سيارة لعبة.</string>
+    <string name="p17">17يكون شديد الحساسية بشكل مبالغ فية للضوء او للصوت او للمس , لكنه غير قادر علي الاحساس بالالم.</string>
+    <string name="p18">18الميل للتصرف بالندفاع .</string>
+    <string name="p19">19عدم التنظيم ومشكلات في ترتيب الاولويات .</string>
+    <string name="p20">20ضعف مهارات ادارة الوقت .</string>
+    <string name="p21">21مشكلات التركيز علي مهمة محددة .</string>
+    <string name="p22">22صعوبة القيام بهام متعددة .</string>
+    <string name="p23">23النشاط المفرط او التململ.</string>
+    <string name="p24">24سؤ التخطيط.</string>
+    <string name="p25">25ضعف القدرة علي ضبط النفس .</string>
+    <string name="p26">26تقلبات مزاجية متكرره .</string>
+    <string name="p27">27صعوبة استمرار واكمال المهام .</string>
+    <string name="p28">28المزاج العصبي .</string>
+    <string name="p29">29مشكلات في التعامل مع المواقف الضاغطة.</string>
+
+</resources>
